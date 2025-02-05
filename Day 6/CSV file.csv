@@ -5,7 +5,3 @@ TC03,Check cart functionality,Add product to cart > Verify cart contents,Cart up
 TC04,Ensure responsiveness on mobile,Resize browser window > Check layout,Layout adjusts properly to screen size,Responsive layout working as intended,Passed,Medium,-,Test successful
 TC05,Validate checkout process,Add product to cart > Proceed to checkout > Complete order,Order successfully placed and confirmed,Order successfully placed and confirmed,Passed,Critical,-,Key functionality
 TC06,Verify login functionality,Enter valid credentials > Click login,User successfully logged in,User successfully logged in,Passed,High,-,No issues found
-TC07,Test search functionality,Enter search term > Verify displayed results,Relevant products displayed,Relevant products displayed,Passed,Medium,-,Search working fine
-TC08,Check return policy page,Open return policy page > Verify content,Policy details displayed correctly,Policy details displayed correctly,Passed,Low,-,Verified successfully
-TC09,Validate payment gateway,Complete checkout > Enter payment details > Confirm,Payment processed successfully,Payment processed successfully,Passed,Critical,-,Smooth payment process
-TC010,Test wishlist functionality,Add product to wishlist > Verify wishlist contents,Product added to wishlist successfully,Product added to wishlist successfully,Passed,Medium,-,No issues found
