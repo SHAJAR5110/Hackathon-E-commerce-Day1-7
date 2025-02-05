@@ -5,3 +5,6 @@ TC03,Check cart functionality,Add product to cart > Verify cart contents,Cart up
 TC04,Ensure responsiveness on mobile,Resize browser window > Check layout,Layout adjusts properly to screen size,Responsive layout working as intended,Passed,Medium,-,Test successful
 TC05,Validate checkout process,Add product to cart > Proceed to checkout > Complete order,Order successfully placed and confirmed,Order successfully placed and confirmed,Passed,Critical,-,Key functionality
 TC06,Verify login functionality,Enter valid credentials > Click login,User successfully logged in,User successfully logged in,Passed,High,-,No issues found
+
+
+
