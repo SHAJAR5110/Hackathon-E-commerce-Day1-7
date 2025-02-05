@@ -164,7 +164,6 @@ This project is licensed under the **MIT License**.
 
 ## 👨‍💻 Author
 - **Your Name** - [GitHub Profile](https://github.com/SHAJAR5110)
-
 ---
 
 ### 🎉 Happy Coding! 🚀
